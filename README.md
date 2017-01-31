@@ -18,27 +18,27 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 * [ ] Add support for custom tip percentage
-* [ ] Add support for splitting the tip and total
+* [X] Add support for splitting the tip and total
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the functionality!
+* [X] Help text appears on input error
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/nJwCXKw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.giphy.com/d3mmQUHJHh5fnwBO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I used Bootstrap for quick CSS, since I found out about this CodePath course only a few days before the deadline to apply. I'm not very versed in php, so it took a while longer to get into the flow of writing in the language. Setting a default radio button was the biggest logical challenge, and I'm not sure if the if statement within the for loop to set "checked" is the most efficient way to go about it. Due to lack of time, I did not attempt to implement custom tip percentage.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [Vanna Phong]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
